@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "curd-api",
+  "description": "curd backend js, mongoDB, node, express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubh-verma/curd-API.git"
+  },
+  "keywords": [],
+  "author": "shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubh-verma/curd-API/issues"
+  },
+  "homepage": "https://github.com/shubh-verma/curd-API#readme"
+}
