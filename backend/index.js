@@ -16,7 +16,3 @@ connectDatabase();
 app.listen(port, () => {
   console.log(`Node API is listening on port ${port}`);
 });
-
-server.close(() => {
-  process.exit(1);
-});
